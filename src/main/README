@@ -1,0 +1,16 @@
+/*
+ * JUnit test for my class, that receives a zookeeper parameter in it's
+ * constructor when I instantiate the test I have to give it the
+ * hostname that I get from zookeeper embedded(not the local
+ * one/standalone) from curatortest
+ * Implementation must be of type client.* calls, not JAVA itself.
+ * Read up on interfaces
+ * Fix slf4j dependencies to stop relying on the .jar
+ */
+
+ /*try/catch blocks*/
+�Catching Throwable, Error (including its subclasses), Exception, and RuntimeException (including its subclasses) always compile.
+�Catching directly subclasses of Throwable except for Exception and Error will generate a compile time error.
+�Catching subclasses of Exception except for RuntimeException will generate a compile time error.
+
+/*read on static*/
