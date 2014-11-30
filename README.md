@@ -7,5 +7,5 @@ Description:
 
 | Technology Used    | Status           | E/R time  |
 | ------------- |:-------------:|:-----:|
-| Basic Engine Implementation  | `TODO` | `N/A` |
+| Basic Engine Implementation  | `DONE` | `N/A` |
 | Recursive read algorithm | `TODO`  | `N/A` |
