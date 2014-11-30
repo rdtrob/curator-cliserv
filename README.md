@@ -1,3 +1,11 @@
-Simple ZooKeeper(wrapped in Curator) client.
+###### ZooKeeper client
+--------------
+Description:
+- Simple ZooKeeper(wrapped in Curator) client.
 
-//TODO: Implement recursive read algorithm.
+###### Planning:
+
+| Technology Used    | Status           | E/R time  |
+| ------------- |:-------------:|:-----:|
+| Basic Engine Implementation  | `TODO` | `N/A` |
+| Recursive read algorithm | `TODO`  | `N/A` |
